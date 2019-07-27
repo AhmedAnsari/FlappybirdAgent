@@ -1,3 +1,6 @@
+## See FlappyBirdClone setup steps for setting up the environment
+## For agents see sarsa.py qlearning.py sarsalambda.py
+
 FlappyBirdClone
 ===============
 
